@@ -23,8 +23,8 @@ Built for healthcare workers who need a second pair of eyes 👁️👁️
 
 ```bash
 # Clone our digital clinic
-git clone https://github.com/prekshadhongade/Medical-diagnosis-googleindiahackathon
-cd Medical-daignosis-googleindiahackathon
+git clone https://github.com/prekshadhongade/Diagnostic-Companion.git
+cd Diagnostic-Companion
 
 # Create your AI lab
 python -m venv venv && source venv/bin/activate
