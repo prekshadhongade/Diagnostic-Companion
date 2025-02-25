@@ -1,5 +1,5 @@
 
-# 🩺 RadiGuard: AI-Powered Diagnostic Companion  
+# 🩺 AI-Powered Diagnostic Companion  
 **Google India Girl Hackathon 2025 Submission**  
 *Empowering early detection through ethical AI*  
 
